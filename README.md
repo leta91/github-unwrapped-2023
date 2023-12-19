@@ -1,3 +1,15 @@
+🏆 My GitHub Unwrapped 2023:
+1. PHP 🐘
+2. CSS 🔵
+3. JavaScript 💛
+
+<img src="https://github.com/leta91/json-example/assets/109817389/33a2bd2a-c4c0-4ebc-8d02-d0e756d47c99">
+<img src="https://github.com/leta91/json-example/assets/109817389/352540d7-d9e7-4491-ad39-ef036ad07f71">
+<img src="https://github.com/leta91/json-example/assets/109817389/64766bae-2508-4df4-bfb2-2d044960409f">
+<p>&nbsp;</p> 
+💃🏻 Get your GitHub Unwrapped 2023 
+<p>&nbsp;</p>
+
 <img width="1200" alt="readme" src="https://github.com/remotion-dev/github-unwrapped-2023/assets/73991323/0a907f4f-a591-4d98-8b38-c90581ccfb33">
 
 **Try it out live:** [GitHubUnwrapped.com](https://www.githubunwrapped.com)
